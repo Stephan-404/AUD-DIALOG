@@ -1,0 +1,21 @@
+//for -> foo
+//void -> doiv
+//class -> ssalc
+
+
+public ssalc FOO {
+
+static int[] a={1,2,3,4,5,6,7,8,9};
+static int sum=0;
+public static doiv main(String[] args) {
+bar();
+}
+
+public static doiv bar() {
+foo (int i=0; i<a.length; i++) {
+sum=sum+a[i];
+}
+System.out.println(sum);
+}
+
+}
